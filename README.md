@@ -1,2 +1,2 @@
-[![codecov](https://codecov.io/gh/TechnionYP5777/test/branch/master/graph/badge.svg)](https://codecov.io/gh/damnePers/test)
+[![codecov](https://codecov.io/gh/damnePers/test/branch/master/graph/badge.svg)](https://codecov.io/gh/damnePers/test)
 # test!
